@@ -39,11 +39,11 @@ require (
 	github.com/agiledragon/gomonkey/v2 v2.13.0
 	github.com/anthropics/anthropic-sdk-go v1.44.0
 	github.com/aws/aws-sdk-go v1.55.8
-	github.com/aws/aws-sdk-go-v2 v1.43.0
+	github.com/aws/aws-sdk-go-v2 v1.48.0
 	github.com/aws/aws-sdk-go-v2/config v1.32.31
 	github.com/aws/aws-sdk-go-v2/service/bedrock v1.33.0
 	github.com/aws/aws-sdk-go-v2/service/bedrockruntime v1.50.4
-	github.com/aws/smithy-go v1.27.4
+	github.com/aws/smithy-go v1.28.9
 	github.com/cohere-ai/cohere-go/v2 v2.12.2
 	github.com/go-logr/zapr v1.3.0
 	github.com/google/generative-ai-go v0.19.0
